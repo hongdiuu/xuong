@@ -1,0 +1,17 @@
+.btn-thue{
+    width: 100px;
+    height: 400px;
+    background-color: #b9a06f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-thue:hover{
+    width: 100px;
+    height: 40px;
+    background-color: #b8b1a3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
